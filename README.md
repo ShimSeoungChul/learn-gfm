@@ -1,7 +1,6 @@
 # learn-gfm
 
 ## GFM이란?
-
 - GFM은 GitHub Flavored Markdown의 약자로 깃헙에서 사용자 컨텐츠로 제공되는 Markdown 버전을 말한다.   
 다음은 기본 Markdown와 비교해서 GFM에 추가된 기능들을 설명한다.
 
@@ -78,7 +77,7 @@
 
  <br>
 
-- 파이프를 셀의 컨텔츠로 사용하려면, 백슬래시(\)를 파이프 전에 사용한다.
+- 파이프를 셀의 컨텐츠로 사용하려면, 백슬래시(\)를 파이프 전에 사용한다.
 
 <br>
 
@@ -103,7 +102,7 @@
 
 
 ## Task list items 
-- 깃헙에서는 체크박스 리스크 기능을 추가로 사용할 수 있다.
+- 깃헙에서는 체크박스 리스트 기능을 추가로 사용할 수 있다.
 
 <br>
 
@@ -180,8 +179,7 @@ Visit https://github.com
 </blockquote>
 
  <br>
-
-
+ 
 ### 출처
 https://github.github.com/gfm/      
 https://docs.github.com/en/github/writing-on-github/organizing-information-with-tables   
