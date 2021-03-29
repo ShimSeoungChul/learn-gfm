@@ -2,6 +2,8 @@
 
 ## GFM이란?
 
+- GFM은 GitHub Flavored Markdown의 약자로 깃헙에서 사용자 컨텐츠로 제공되는 Markdown 버전을 말한다.
+
 ## Tables
 - 테이블을 만들려면, 파이프(|)와 하이픈(-)을 사용한다.   
 하이픈은 각 열의 헤더를 만드는데 사용되고, 하이플은 각 열은 구분한다.  
@@ -10,6 +12,7 @@
 
  - 셀은 너비가 다를 수 있으며 열 내에서 완벽하게 정렬될 필요는 없다. 하지만 헤더 행의 각 열에는 최소한 세 개의 하이픈은 있어야한다
 
+<br>
 
 **Markdown 예시** <br>
 <p>
@@ -32,6 +35,7 @@
 
 - 테이블 내에서 링크, 텍스트 스타일 등의 서식을 사용할 수 있다.
 
+<br>
 
 **Markdown 예시** <br>
 <p>
@@ -51,6 +55,8 @@
  <br>
 
 - 헤더 행의 하이픈의 왼쪽, 오른쪽 또는 양쪽에 콜론을 포함하여 텍스트를 열의 왼쪽, 오른쪽 또는 가운데로 정렬할 수 있다.
+
+<br>
 
 **Markdown 예시** <br>
 <p>
@@ -72,6 +78,8 @@
  <br>
 
 - 파이프를 셀의 컨텔츠로 사용하려면, 백슬래시(\)를 파이프 전에 사용한다.
+
+<br>
 
 **Markdown 예시** <br>
 <p>
@@ -95,6 +103,8 @@
 
 ## Task list items 
 - 깃헙에서는 체크박스 리스크 기능을 추가로 사용할 수 있다.
+
+<br>
 
 **Markdown 예시** <br>
 <p>
@@ -126,6 +136,8 @@
 ## Autolinks 
 - 깃헙은 표준 URL에서 자동으로 링크를 생성한다. 
 
+<br>
+
 **Markdown 예시** <br>
 <p>
 Visit https://github.com
@@ -146,6 +158,8 @@ Visit https://github.com
 \<title>,\<textarea>,\<style>,\<xmp>,\<iframe>,\<noembed>,\<noframes>,\<script>,\<plaintext>
 
 - 필터링이 될때 위의 HTML 태그들의 <를 &lt;로 대체하여 수행한다. 
+
+<br>
 
 **Markdown 예시** <br>
 
