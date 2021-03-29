@@ -2,7 +2,8 @@
 
 ## GFM이란?
 
-- GFM은 GitHub Flavored Markdown의 약자로 깃헙에서 사용자 컨텐츠로 제공되는 Markdown 버전을 말한다.
+- GFM은 GitHub Flavored Markdown의 약자로 깃헙에서 사용자 컨텐츠로 제공되는 Markdown 버전을 말한다.   
+다음은 기본 Markdown와 비교해서 GFM에 추가된 기능들을 설명한다.
 
 ## Tables
 - 테이블을 만들려면, 파이프(|)와 하이픈(-)을 사용한다.   
